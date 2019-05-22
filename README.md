@@ -1,7 +1,6 @@
 ![Language](https://img.shields.io/github/languages/top/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
 [![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
 ![HitCount](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
-
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 # Los Angeles Restaurant Data Analysis and Prediction
