@@ -1,8 +1,6 @@
 [![HitCount](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction)
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-
-[![Generic badge](https://img.shields.io/badge/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction)
-
+![Language](https://img.shields.io/github/languages/top/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
+![RepoSize](https://img.shields.io/github/repo-size/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg?color=yellow)
 
 # Los Angeles Restaurant Data Analysis and Prediction
 > An analysis of the inspection data of the restaurants in the 88 cities of Los Angeles county.
@@ -80,5 +78,6 @@ just want to shoot a question, please feel free to connect with me on <a href="h
 <a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
 My other projects can be found [here](http://bit.ly/2UlyFgC).
 
-[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
-[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)]()
+[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
+[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](http://bit.ly/2M0s0Vu)
