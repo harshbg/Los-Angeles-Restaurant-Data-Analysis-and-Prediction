@@ -1,5 +1,4 @@
-![Language](https://img.shields.io/github/languages/top/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
-[![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
+![Language](https://img.shields.io/badge/Made%20with-Python%20and%20Tableau-blue.svg)
 ![HitCount](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
 
 
