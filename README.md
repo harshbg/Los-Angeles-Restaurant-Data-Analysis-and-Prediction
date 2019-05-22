@@ -1,11 +1,11 @@
 ![Language](https://img.shields.io/github/languages/top/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
 [![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
 ![HitCount](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 
 # Los Angeles Restaurant Data Analysis and Prediction
 > An analysis of the inspection data of the restaurants in the 88 cities of Los Angeles county.
-The project was done as part of INFORMS Analytics Challenge at the University of Texas at Dallas. The entire summary of the project can be found in the [project report]().
+The project was done as part of INFORMS Analytics Challenge at the University of Texas at Dallas. The entire summary of the project can be found in the [project report](https://github.com/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Team%20Linear%20Digressors-Final.pdf).
 
 ## Table of contents
 * [General info](#general-info)
@@ -29,7 +29,7 @@ unincorporated areas in the LA county. We have analyzed the data to answer 5 que
 ![Example screenshot](./img/Capture3.PNG)
 ![Example screenshot](./img/Capture4.PNG)
 
-**The entire presentation of the project can be found [here]().**
+**The entire presentation of the project can be found [here](https://github.com/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Team%20Linear%20Digressors-Final.pdf).**
 
 ## Technologies and Tools
 * Python
