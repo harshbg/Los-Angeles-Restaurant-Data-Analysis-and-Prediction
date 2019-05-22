@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction)
+
 # Los Angeles Restaurant Data Analysis and Prediction
 > An analysis of the inspection data of the restaurants in the 88 cities of Los Angeles county.
 The project was done as part of INFORMS Analytics Challenge at the University of Texas at Dallas. The entire summary of the project can be found in the [project report]().
@@ -15,7 +17,12 @@ The project was done as part of INFORMS Analytics Challenge at the University of
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The city of Los Angeles publishes data on Environment Health inspection and enforcement results from restaurants in the Los Angeles county. These data cover 85 of 88 cities and all
+unincorporated areas in the LA county. 
+
+
+
+
 
 ## Screenshots
 ![Example screenshot](./img/Capture1.PNG)
@@ -30,6 +37,12 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
+
+There are two datasets available: (i) market inspection dataset: contains results of inspection;
+and (ii) market violations dataset: contains information on health code violations in restaurants.
+These data were last updated on January 16, 2019. Data dictionaries for the above two data sets
+are included below. Feel free to supplement the above information with other publicly-available
+information
 
 ## Process
 
