@@ -19,14 +19,14 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Screenshots
 ![Example screenshot](./img/Capture1.PNG)
-![Example screenshot](./img/Capture.PNG)
 ![Example screenshot](./img/Capture2.PNG)
 ![Example screenshot](./img/Capture3.PNG)
+![Example screenshot](./img/Capture4.PNG)
 
 ## Technologies and Tools
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Python
+* Tableau 
+* Microsoft Excel
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
@@ -41,23 +41,21 @@ Some examples of usage:
 ````
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+We have tried to answer the following questions in our analysis:
 
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* What are the key factors in predicting health “scores” of the restaurants in Los Angeles county?
+* What are the most important factors in classifying restaurants into different “grades”?
+* Are there any relationships between various types of health code violations and scores/grades of a restaurant?
+* Are there any patterns in terms of how health scores of restaurants change over time?
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _finished_. Our team was the winner of the INFORMS Analytics Challenge 2019. Our college, [The University of Texas at Dallas](https://www.utdallas.edu/) has published an article detailing the account of the competitions win by our team "Linear Digressors" [here](http://bit.ly/2Wpq792). 
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
 
 ## Contact
-Created by me and my teammate [Siddharth Oza](https://github.com/siddharthoza).
+Created by me and my teammate [Siddharth Oza](https://github.com/siddharthoza), and [Ashish Sharma](https://github.com/ashish1993utd).
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
 just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, 
