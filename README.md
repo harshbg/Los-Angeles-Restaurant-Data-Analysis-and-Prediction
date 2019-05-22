@@ -2,6 +2,8 @@
 [![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
 ![HitCount](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 # Los Angeles Restaurant Data Analysis and Prediction
 > An analysis of the inspection data of the restaurants in the 88 cities of Los Angeles county.
 The project was done as part of INFORMS Analytics Challenge at the University of Texas at Dallas. The entire summary of the project can be found in the [project report]().
@@ -160,7 +162,7 @@ We have tried to answer the following questions in our analysis:
 * Are there any patterns in terms of how health scores of restaurants change over time?
 
 ## Status
-Project is: _finished_. Our team was the winner of the INFORMS Analytics Challenge 2019. Our college, [The University of Texas at Dallas](https://www.utdallas.edu/) has published an article detailing the account of the competitions win by our team "Linear Digressors" [here](http://bit.ly/2Wpq792). 
+Project is: _finished_. Our team was the winner of the INFORMS Analytics Challenge 2019. Our college, [The University of Texas at Dallas](https://www.utdallas.edu/) has published an [article](http://bit.ly/2Wpq792) detailing the account of the competitions win by our team "Linear Digressors". 
 
 ## Inspiration
 The cover photo of the Presentation template is to replicate the Los-Angeles skyline. 
@@ -177,4 +179,4 @@ My other projects can be found [here](http://bit.ly/2UlyFgC).
 
 [![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
 [![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](http://bit.ly/2M0s0Vu)
+[![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
