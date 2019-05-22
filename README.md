@@ -80,4 +80,5 @@ just want to shoot a question, please feel free to connect with me on <a href="h
 <a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
 My other projects can be found [here](http://bit.ly/2UlyFgC).
 
-[![HitCount](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
+[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
+[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)]()
