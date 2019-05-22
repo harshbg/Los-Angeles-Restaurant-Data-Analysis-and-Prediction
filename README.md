@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/Made%20with-Python%20and%20Tableau-blue.svg)
+[![Language](https://img.shields.io/badge/Made%20with-Python%20and%20Tableau-blue.svg)](#technologies-and-tools)
 ![HitCount](http://hits.dwyl.io/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction.svg)
 
 
@@ -11,7 +11,6 @@ The project was done as part of INFORMS Analytics Challenge at the University of
 * [Screenshots](#screenshots)
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
-* [Process](#process)
 * [Code Examples](#code-examples)
 * [Features](#features)
 * [Status](#status)
@@ -46,7 +45,6 @@ The data was sourced in February 2019 and has data till January 16, 2019. Both t
 The [code](https://github.com/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/blob/master/Code/Naive%20Bayes%20Classification.ipynb) can be used to replicate the results. 
 The tableau visualizations can be found [here](https://github.com/harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/tree/master/Code).
 
-## Process
 
 ## Code Examples
 Some examples of usage:
@@ -175,6 +173,7 @@ just want to shoot a question, please feel free to connect with me on <a href="h
 <a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
 My other projects can be found [here](http://bit.ly/2UlyFgC).
 
+[![Analytics](https://ga-beacon.appspot.com/UA-42822568-3/Los-Angeles-Restaurant-Data-Analysis-and-Prediction/readme)](https://github.com/igrigorik/ga-beacon)
 [![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
 [![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
 [![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
